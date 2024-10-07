@@ -1,0 +1,13 @@
+.header-container li{
+    font-size: 15px;
+    display: inline;
+    margin: auto;
+    padding: 2vw;
+} 
+
+.schedule-header{
+    border-bottom-style:solid;
+}
+.bmx-schedule {
+    font-size: 15px;
+}
